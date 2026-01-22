@@ -1,4 +1,3 @@
 streamlit
-pyvista==0.42.3
-st-pyvista-viewer==0.1.0
-numpy<2.0.0
+pyvista
+st-pyvista-viewer
