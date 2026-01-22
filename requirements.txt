@@ -3,3 +3,6 @@ pyvista
 trame
 trame-vtk
 trame-vuetify
+trame-client
+nest_asyncio
+numpy<2.0.0
